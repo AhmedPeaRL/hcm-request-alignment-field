@@ -1,5 +1,3 @@
-# hcm-request-alignment-field
-
 # HCM Request Alignment Field
 
 Requests may appear.
