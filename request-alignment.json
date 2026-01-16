@@ -1,0 +1,8 @@
+{
+  "requests_may_appear": true,
+  "requests_required": false,
+  "requests_binding": false,
+  "misaligned_requests": "dissolve",
+  "aligned_requests": "may_pass",
+  "no_response_is_valid": true
+}
